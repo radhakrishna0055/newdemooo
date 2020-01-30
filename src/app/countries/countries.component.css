@@ -1,0 +1,22 @@
+
+ h1 {
+    color:  #2C3E50;
+    position: relative;
+    left: 25px;
+  }
+  h4 {
+    color:  #2C3E50;
+    position: relative;
+    left: 10px;
+    font-size: 14px;
+  
+  }
+  p {
+    position: relative;
+    left: 25px;
+  }
+  
+  :any-link {
+    color:rgba(3, 241, 15, 0.932);
+    font-size:20px ;
+  }
